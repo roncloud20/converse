@@ -11,3 +11,10 @@
     accusam labore et sit invidunt et clita. 
     Gubergren rebum et magna.
 </p>
+
+<p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum omnis in sit illum, expedita labore placeat. Temporibus dolores iste inventore iure ducimus ut assumenda. Sed pariatur voluptatum nisi esse quos?
+</p>
+<h2>
+    Policy
+</h2>
